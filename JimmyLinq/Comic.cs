@@ -1,0 +1,7 @@
+﻿namespace JimmyLinq
+{
+    class Comic
+    {
+
+    }
+}
