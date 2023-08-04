@@ -1,6 +1,6 @@
 ﻿namespace JimmyLinq
 {
-    class Program
+    class Program 
     {
         static void Main()
         {
